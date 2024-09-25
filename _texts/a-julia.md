@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: A Julia de Burgos
-author: Julia de Burgos
-editor: Alex Gil
+title: México - Olimpiada de 1968
+author: Octavio Paz
+editor: Sophia Calderón Monárrez
 source: Ciudad Seva
 ---
 
