@@ -10,8 +10,8 @@ baseurl:             '/olimpiada-1968'
 # About/contact
 author:
   name:              Sophia Calderón Monárrez
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  url:               
+  email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
