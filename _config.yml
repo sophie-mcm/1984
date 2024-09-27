@@ -1,20 +1,18 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               "1984 Intro DH"
+title:               "Mexico: Olimpiada de 1968"
 tagline:             'a digital edition'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'Octavio Paz's letters and correspondence regarding Mexico's 1968 Olympics and the Tlatelolco massacre.'
 url:                 ''
-baseurl:             '/1984'
+baseurl:             '/olimpiada-1968'
 
 # About/contact
 author:
   name:              Sophia Calderón Monárrez
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: orange
 
 # Permalinks
 permalink: pretty
