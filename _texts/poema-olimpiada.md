@@ -7,16 +7,16 @@ source: zonaoctaviopaz.com
 ---
 
 - La limpidez
-- {:.indent-6} (Quizá valga la pena
+- {:.indent-5} (Quizá valga la pena
 - Escribirlo sobre la limpieza
 - De esta hoja)
 - {:.indent-6} No es límpida:
 - Es una rabia
-- {:.indent-6} (Amarilla y negra
+- {:.indent-5} (Amarilla y negra
 - Acumulación de bilis en español)
 - Extendida sobre la página.
 - ¿Por qué?
-- {:.indent-6} La vergüenza es ira
+- {:.indent-5} La vergüenza es ira
 - Vuela contra uno mismo:
 - {:.indent-10} Si
 - Una nación entera se avergüenza
