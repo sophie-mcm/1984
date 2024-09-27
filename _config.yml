@@ -10,9 +10,11 @@ baseurl:             '/olimpiada-1968'
 # About/contact
 author:
   name:              Sophia Calderón Monárrez
+  url:
+  email:
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: orange
+color-scheme: 
 
 # Permalinks
 permalink: pretty
