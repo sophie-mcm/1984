@@ -6,8 +6,7 @@ editor: Sophia Calderón Monárrez
 source: zonaoctaviopaz.com
 ---
 
-- {:.indent-10}
-- A Dore y Adja Yunkers
+- {:.indent-10} A Dore y Adja Yunkers
 - La limpidez
 - {:.indent-5} (Quizá valga la pena
 - Escribirlo sobre la limpieza
