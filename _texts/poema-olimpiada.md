@@ -3,7 +3,7 @@ layout: poem
 title: México - Olimpiada de 1968
 author: Octavio Paz
 editor: Sophia Calderón Monárrez
-source: zonaoctaviopaz.com
+source: latiraniainvisible.com
 ---
 
 - {:.indent-10} A Dore y Adja Yunkers
