@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: narrative
 title: "Carta Nueva Delhi, a 7 de octubre de 1968"
 author: Octavio Paz
 editor: Sophia Calderon Monarrez
