@@ -23,9 +23,9 @@ source: latiraniainvisible.com
 - Una nación entera se avergüenza
 - Es león que se agazapa
 - Para saltar.
-- {:.indent-5} (Los empleados
+- {:.indent-5} [(Los empleados
 - Municipales lavan la sangre
-- En la Plaza de los Sacrificios.)
+- En la Plaza de los Sacrificios.)] (https://imagenes.elpais.com/resizer/v2/NRI46MJ3GZMMBK7AHAEULY6VXQ.jpg?auth=84c423db1189c85961e04085c568d6fdd38a5fb418f624c801499b07857ad475&width=1960)
 - Mira ahora,
 - {:.indent-5} Manchada
 - Antes de haber dicho algo
