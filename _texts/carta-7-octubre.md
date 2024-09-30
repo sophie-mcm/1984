@@ -15,7 +15,7 @@ México, D.F.
 Muy señores míos:
 Tuvieron ustedes, hace algún tiempo, la amabilidad de invitarme a participar en el Encuentro Mundial de Poetas que se celebrará en México durante el presente mes de octubre, como una parte de las actividades del Programa Cultural de la XIX Olimpiada. Asímismo, me invitaron a escribir un poema que exaltase el espíritu olímpico.
 
-Decliné ambas invitaciones porque, según expresé a ustedes oportunamente, no pensaba que yo fuese la persona más a propósito para concurrir a esa reunión internacional y, sobre todo, para escribir un poema con ese tema. No obstante, el giro reciente de los acontecimientos me ha hecho cambiar de opinión. [He escrito un pequeño poema en conmemoración de esta Olimpíada.](https://sophie-mcm.github.io/olimpiada-1968/texts/poema-olimpiada/) Se los envío a ustedes, anexo a esta carta y con la atenta súplica de que se sirvan transmitirlo a los poetas que asistirán al Encunetro.
+Decliné ambas invitaciones porque, según expresé a ustedes oportunamente, no pensaba que yo fuese la persona más a propósito para concurrir a esa reunión internacional y, sobre todo, para escribir un poema con ese tema. No obstante, el giro reciente de los acontecimientos me ha hecho cambiar de opinión. [He escrito un pequeño poema en conmemoración de esta Olimpíada.](https://sophie-mcm.github.io/olimpiada-1968/texts/poema-olimpiada/) Se los envío a ustedes, anexo a esta carta y con la atenta súplica de que se sirvan transmitirlo a los poetas que asistirán al Encuentro.
 
 Les agradezco de antemano la atención que les merezca el ruego contenido en la parte final del segundo párrafo de esta comunicación. Sírvanse aceptar la expresión de mi atenta consideración.
 
