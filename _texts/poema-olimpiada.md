@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: México - Olimpiada de 1968
+title: México - Olimpíada de 1968
 author: Octavio Paz
 editor: Sophia Calderón Monárrez
 source: latiraniainvisible.com
