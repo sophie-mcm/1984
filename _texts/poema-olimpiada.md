@@ -37,4 +37,4 @@ source: latiraniainvisible.com
 - Delhi, a 3 de octubre de 1968.
 
 
-  [^1] Paz cita a Karl Marx en una [carta a Arnold Ruge en 1843](http://grupgerminal.org/?q=system/files/1843.03-00-cartaruge-marx.pdf)./ Paz quotes Karl Marx in a [letter to Arnold Ruge in 1843](https://www.marxists.org/archive/marx/works/1843/letters/43_03-alt.htm#:~:text=Shame%20is%20a%20kind%20of,the%20wretches%20are%20still%20patriots.).
+  [^1] Paz cita a Karl Marx en una [carta a Arnold Ruge en 1843](http://grupgerminal.org/?q=system/files/1843.03-00-cartaruge-marx.pdf). / Paz quotes Karl Marx in a [letter to Arnold Ruge in 1843](https://www.marxists.org/archive/marx/works/1843/letters/43_03-alt.htm#:~:text=Shame%20is%20a%20kind%20of,the%20wretches%20are%20still%20patriots.).
